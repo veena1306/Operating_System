@@ -1,0 +1,17 @@
+memory :- i.  process isolation
+          ii. automatic allocation and mangement.
+          iii. Support of modular programming.
+          iv. protection and access control.
+          v. Long term storage.
+
+virtual Memory:- 
+        i.  Implements long term storage.
+        ii. Information stored in named objects called files.
+        iii.Allows programmers to address memory from a logical point of view.
+
+Paging :- 
+      i.  Allow processes to be compromised of a number of fixed size block called pages.
+      ii. address of page is the page number and the offset within the page.
+      iii.each page may be located anywhere in the main memory.
+      iv. Real address and physical address is the main memory address.
+      
