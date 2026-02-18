@@ -1,0 +1,69 @@
+Each system is a series of levels:- 
+1. Level 1
+       i. Electronic circuits.
+       ii.Objects are registers, memory cells and logic gates.
+       iii.
+
+2. level 2 
+      i. processor's instruction set.
+      ii.opearations such as add, substract, load and store.
+
+3. Level 3
+     i. concepts of procedure and subroutine.
+
+4. Level 4
+     i. Interrupts
+
+Concepts Related to Multiprogramming
+5. Level 5
+    i. process as a program in execution.
+    ii.suspends and resumes processs.
+
+ 6. Level 6
+    i. secondary storage device.
+    ii.Transfer of block of data.
+
+Level 7
+Creates logical address space for processes
+Organizes virtual address space into blocks
+
+Deal with External Objects
+
+Level 8
+Communication of information and messages between processes
+Level 9
+Supports long-term storage of named files
+Level 10
+Provides access to external devices using standardized interfaces
+Level 11
+Responsible for maintaining the association between the external and internal identifiers
+Level 12
+Provides full-featured facility for the support of processes
+Level 13
+Provides an interface to the OS for the user
+
+*****************************************************************************************************************************************************************
+Microkernel architecture
+    Assigns only a few essential functions to the kernel
+        i.Address spaces
+       ii.Interprocess communication (IPC)
+      iii.Basic scheduling
+
+
+Multiprograming :- one processor.
+Multiprocessing :- Multiple processor.
+
+
+Distributed operating systems
+     Provides the illusion of a single main memory space and single secondary memory space.
+
+Object-oriented design
+    Used for adding modular extensions to a small kernel
+    Enables programmers to customize an operating system without disrupting system integrity
+
+*****************************************************************************************************************************************************************
+
+
+
+
+    
