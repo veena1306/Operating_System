@@ -1,0 +1,33 @@
+kernel: it is the portion of the operating system that resides in main memory.
+Evolution of OS:-
+    1. batch system: similar types of jobs are batched together.
+       monitor start executing the first job, whn the job is completed control is passed back to monitor.
+       Features:-
+       i.No interaction between user and program
+       ii.Jobs executed sequentially
+       iii.Reduces setup time between similar jobs
+       iv.CPU often idle during I/O (major disadvantage)
+
+
+i.Uniprograming :- System must wait for I/O instruction to be executed before processing.
+ii.Multiprograming:- When one job needs to wait for I/O, other job can be executed by the processror(processor can switch to other job)
+
+Time Sharing System :- using multiprograming to handle multiple interactive jobs.
+Processor's time is shared between multiple user.
+multiple user's shares the processor's time using terminals.
+Multiple users simultaneously access the system through terminals
+
+Program:- An instance of a program running on a computer.
+          A program in execution.
+
+Characteristics :- 
+          i. state.
+         ii. system resources use.
+        iii. A single sequnce thread of execution.
+
+components :-
+       i. An executable program.
+       ii.Associated data needed by the program.
+      iii.execution context of program.
+
+      
